@@ -6,6 +6,6 @@
 	if (!CONDITION1)
 #endif
 	FUNCTION2(PARAMS2);
-#ifdef MACRO
+#ifdef MACRO1
 	}
 #endif
