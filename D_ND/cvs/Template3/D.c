@@ -1,0 +1,6 @@
+#if MACRO
+	FUNCTION1(PARAMS1);
+#else
+	FUNCTION2(PARAMS2);
+#endif
+

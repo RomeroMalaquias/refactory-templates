@@ -1,0 +1,9 @@
+#if MACRO1
+	#define MACRO2 VALUE1
+	#define MACRO3 VALUE2
+#else
+	#define MACRO2 VALUE3
+	#define MACRO3 VALUE4
+#endif
+if (VAR > MACRO3 &&
+	FUNCTION(MACRO3, MACRO2)) {

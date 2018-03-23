@@ -1,0 +1,6 @@
+#if MACRO1
+	VAR += FUNCTION(PARAMS, PARAMS1);
+#else
+	VAR += FUNCTION(PARAMS, PARAMS2);
+#endif
+
