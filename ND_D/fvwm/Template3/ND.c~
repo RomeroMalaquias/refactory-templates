@@ -1,0 +1,11 @@
+#else
+if (CONDITION)
+{
+	//Code1
+}
+#endif
+else
+{
+	//Code2
+}
+
