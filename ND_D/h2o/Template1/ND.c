@@ -1,0 +1,6 @@
+if (CONDITION1 && CONDITION2
+#if MACRO
+	||  CONDITION3
+
+#endif
+)) {
