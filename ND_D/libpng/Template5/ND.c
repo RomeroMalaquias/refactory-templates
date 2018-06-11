@@ -1,0 +1,6 @@
+FUNCTION(PARAMS1,
+	#ifdef MACRO
+		PARAMS2, PARAMS3
+	#endif
+)
+{
