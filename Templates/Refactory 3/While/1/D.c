@@ -4,7 +4,7 @@
 #else
 	VAR = VAL2;
 #endif
-switch(VAR)
+while(VAR)
 {
 ...
 }

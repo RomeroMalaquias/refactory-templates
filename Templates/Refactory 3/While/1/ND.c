@@ -1,7 +1,7 @@
 #ifdef MACRO
-	switch(VAL1)
+	while(VAL1)
 #else
-	switch(VAL2)
+	while(VAL2)
 #endif
 {
 ...
