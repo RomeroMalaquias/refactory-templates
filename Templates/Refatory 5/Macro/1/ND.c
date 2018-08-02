@@ -1,5 +1,5 @@
 VAR = ATTRIBUTION
-#           if CONDITION
+#           if MACRO
                + ATTRIBUTION1
 #           else
                + ATTRIBUTION2

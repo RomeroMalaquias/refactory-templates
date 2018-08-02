@@ -1,8 +1,8 @@
-#           if CONDITION
-            #define MACRO ATTRIBUTION1
+#           if MACRO
+            #define MACRO1 ATTRIBUTION1
 #           else
-            #define MACRO ATTRIBUTION2
+            #define MACRO1 ATTRIBUTION2
 #           endif
 
-VAR = ATTRIBUTION + MACRO + ATTRIBUTION3;
+VAR = ATTRIBUTION + MACRO1 + ATTRIBUTION3;
                
