@@ -1,6 +1,6 @@
-VAR AUX = VAL1;
+VAR AUX = VAL2;
 #ifdef MACRO
-	AUX = VAL2;
+	AUX = VAL1;
 #endif
 
 if (AUX)
