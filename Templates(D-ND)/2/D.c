@@ -1,4 +1,4 @@
-#ifndef MMX_BUG_IS_FIXED
+#ifndef MACRO
    //CODE
 #else
    //CODE2
